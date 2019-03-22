@@ -1,0 +1,4 @@
+MyString: String = 'Im a string!';
+MyInt: Int = 5;
+MyFloat: Float = 1.5;
+MyBool: Bool = True;
